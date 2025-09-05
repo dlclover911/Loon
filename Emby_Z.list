@@ -1,8 +1,16 @@
+# 临境 Liminal（机场服）
 DOMAIN-SUFFIX,my.liminalnet.site
+# Msky-公益服（30天）
 DOMAIN-SUFFIX,cf.5msky.com
+# Zn的影视库（永久）
 DOMAIN-SUFFIX,emby.zn.al
+# nyamedia（永久）
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
+# Doubon(永久)
 DOMAIN-SUFFIX,onatoshi.114514.quest
+# HOHAI（永久）
 DOMAIN-SUFFIX,emby.hohai.eu.org
+# Shrek（30天）
 DOMAIN-SUFFIX,public.shrekmedia.org
+# HKA Emby（21天）
 DOMAIN-SUFFIX,hka-emby.aliz.work
